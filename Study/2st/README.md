@@ -24,7 +24,7 @@
 | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)    | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)        | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
 | [이친수](https://www.acmicpc.net/problem/2193)               | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
-| [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [연속합](https://www.acmicpc.net/problem/1912)               | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [제곱수의 합](https://www.acmicpc.net/problem/1699)          | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
