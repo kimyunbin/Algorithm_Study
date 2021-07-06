@@ -20,7 +20,7 @@
 | [2×n 타일링 2](https://www.acmicpc.net/problem/11727)        | :white_check_mark:   | :white_large_square: | :white_large_square: | :white_check_mark:   |
 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)       | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_check_mark:   |
 | [카드 구매하기](https://www.acmicpc.net/problem/11052)       | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_check_mark:   |
-| [카드 구매하기 2](https://www.acmicpc.net/problem/16194)     | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_large_square: |
+| [카드 구매하기 2](https://www.acmicpc.net/problem/16194)     | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_check_mark:   |
 | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)    | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_large_square: |
 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)        | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_large_square: |
 | [이친수](https://www.acmicpc.net/problem/2193)               | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
