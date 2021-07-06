@@ -23,7 +23,7 @@
 | [카드 구매하기 2](https://www.acmicpc.net/problem/16194)     | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_large_square: |
 | [1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)    | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_large_square: |
 | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)        | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_large_square: |
-| [이친수](https://www.acmicpc.net/problem/2193)               | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
+| [이친수](https://www.ac micpc.net/problem/2193)              | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_large_square: |
 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [연속합](https://www.acmicpc.net/problem/1912)               | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
