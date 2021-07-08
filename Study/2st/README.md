@@ -26,8 +26,8 @@
 | [이친수](https://www.acmicpc.net/problem/2193)               | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_check_mark:   |
 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_check_mark:   |
 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
-| [연속합](https://www.acmicpc.net/problem/1912)               | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
-| [제곱수의 합](https://www.acmicpc.net/problem/1699)          | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [연속합](https://www.acmicpc.net/problem/1912)               | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
+| [제곱수의 합](https://www.acmicpc.net/problem/1699)          | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
 | [합분해](https://www.acmicpc.net/problem/2225)               | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 
 
