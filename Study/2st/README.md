@@ -32,6 +32,22 @@
 
 
 
-뒤에 문제는 추후 업데이트 예정 다풀면 말해주세요! 
+## 401 - 다이나믹 프로그래밍 1 (연습)
 
- 
+| 문제 이름                                                    | 김윤빈               | 임광훈               | 성루비               | 권예빈               |
+| ------------------------------------------------------------ | -------------------- | -------------------- | -------------------- | -------------------- |
+| [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)    | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [RGB거리](https://www.acmicpc.net/problem/1149)              | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [동물원](https://www.acmicpc.net/problem/1309)               | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [오르막 수](https://www.acmicpc.net/problem/11057)           | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [스티커](https://www.acmicpc.net/problem/9465)               | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [포도주 시식](https://www.acmicpc.net/problem/2156)          | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [정수 삼각형](https://www.acmicpc.net/problem/1932)          | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [연속합 2](https://www.acmicpc.net/problem/13398)            | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [타일 채우기](https://www.acmicpc.net/problem/2133)          | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+
+
+
