@@ -28,7 +28,7 @@
 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
 | [연속합](https://www.acmicpc.net/problem/1912)               | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_check_mark:   |
 | [제곱수의 합](https://www.acmicpc.net/problem/1699)          | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_large_square: |
-| [합분해](https://www.acmicpc.net/problem/2225)               | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [합분해](https://www.acmicpc.net/problem/2225)               | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
 
 
 
@@ -36,7 +36,7 @@
 
 | 문제 이름                                                    | 김윤빈               | 임광훈               | 성루비               | 권예빈               |
 | ------------------------------------------------------------ | -------------------- | -------------------- | -------------------- | -------------------- |
-| [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)    | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)    | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
 | [RGB거리](https://www.acmicpc.net/problem/1149)              | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [동물원](https://www.acmicpc.net/problem/1309)               | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [오르막 수](https://www.acmicpc.net/problem/11057)           | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
