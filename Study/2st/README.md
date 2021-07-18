@@ -36,7 +36,7 @@
 
 | 문제 이름                                                    | 김윤빈               | 임광훈               | 성루비               | 권예빈               |
 | ------------------------------------------------------------ | -------------------- | -------------------- | -------------------- | -------------------- |
-| [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)    | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
+| [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)    | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_large_square: |
 | [RGB거리](https://www.acmicpc.net/problem/1149)              | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [동물원](https://www.acmicpc.net/problem/1309)               | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [오르막 수](https://www.acmicpc.net/problem/11057)           | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
@@ -51,3 +51,20 @@
 
 
 
+## 500 - 브루트 포스
+
+> 모든 경우의 수를 다 시도해보는 알고리즘인 브루트 포스에 대해서 알아봅니다.
+> 경우의 수를 만들기 위해 **순열**, **재귀**, **비트마스크** 방법을 알아보고, 여러가지 문제를 해결해봅니다.
+
+
+
+| 문제 이름                                              | 김윤빈               | 임광훈               | 성루비               | 권예빈               |
+| ------------------------------------------------------ | -------------------- | -------------------- | -------------------- | -------------------- |
+| [일곱 난쟁이](https://www.acmicpc.net/problem/2309)    | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [사탕 게임](https://www.acmicpc.net/problem/3085)      | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [날짜 계산](https://www.acmicpc.net/problem/1476)      | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [리모컨](https://www.acmicpc.net/problem/1107)         | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [테트로미노](https://www.acmicpc.net/problem/14500)    | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [카잉 달력](https://www.acmicpc.net/problem/6064)      | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748) | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+| [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
