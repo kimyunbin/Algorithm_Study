@@ -60,8 +60,8 @@
 
 | 문제 이름                                              | 김윤빈               | 임광훈               | 성루비               | 권예빈               |
 | ------------------------------------------------------ | -------------------- | -------------------- | -------------------- | -------------------- |
-| [일곱 난쟁이](https://www.acmicpc.net/problem/2309)    | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
-| [사탕 게임](https://www.acmicpc.net/problem/3085)      | :white_large_square: | :white_check_mark:   | :white_large_square: | :white_large_square: |
+| [일곱 난쟁이](https://www.acmicpc.net/problem/2309)    | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_large_square: |
+| [사탕 게임](https://www.acmicpc.net/problem/3085)      | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_large_square: |
 | [날짜 계산](https://www.acmicpc.net/problem/1476)      | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [리모컨](https://www.acmicpc.net/problem/1107)         | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [테트로미노](https://www.acmicpc.net/problem/14500)    | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
