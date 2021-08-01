@@ -1,4 +1,4 @@
-# 2학기
+2학기
 
 > 2021.07~ 스터디 운영중입니다. 
 >
@@ -62,9 +62,10 @@
 | ------------------------------------------------------ | -------------------- | -------------------- | -------------------- | -------------------- |
 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)    | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_check_mark:   |
 | [사탕 게임](https://www.acmicpc.net/problem/3085)      | :white_check_mark:   | :white_check_mark:   | :white_large_square: | :white_large_square: |
-| [날짜 계산](https://www.acmicpc.net/problem/1476)      | :white_check_mark:   | :white_large_square: | :white_large_square: | :white_large_square: |
+| [날짜 계산](https://www.acmicpc.net/problem/1476)      | :white_check_mark:   | :white_large_square: | :white_large_square: | :white_check_mark:   |
 | [리모컨](https://www.acmicpc.net/problem/1107)         | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [테트로미노](https://www.acmicpc.net/problem/14500)    | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [카잉 달력](https://www.acmicpc.net/problem/6064)      | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748) | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | :white_large_square: | :white_large_square: | :white_large_square: | :white_large_square: |
+
